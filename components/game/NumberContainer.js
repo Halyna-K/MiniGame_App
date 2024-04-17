@@ -27,6 +27,5 @@ const styles = StyleSheet.create({
     color: Colors.accent500,
     fontFamily: 'open-sans-bold',
     fontSize: deviceWidth < 380 ? 28 : 36,
-    // fontWeight: 'bold'
   }
 })
